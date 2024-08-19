@@ -1,6 +1,6 @@
 - 👋 Hi, I am @LucasRakotomalala
 - 👀 I am interested in Computer Sciences and new technologies
-- 🌱 I am working with [https://angular.dev](Angular 18), [https://nodejs.org](Node.js 20) and [https://helm.sh](Helm).
+- 🌱 I am working mainly with <a href="https://angular.dev">Angular 18</a>, <a href="https://nodejs.org">Node.js 20</a>, <a href="https://kubernetes.io/">Kubernetes</a> and <a href="https://helm.sh">Helm</a>.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
