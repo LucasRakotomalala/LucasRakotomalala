@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LucasRakotomalala
-- 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning some languages in my engineering school
+- 👋 Hi, I am @LucasRakotomalala
+- 👀 I am interested in Computer Sciences and new technologies
+- 🌱 I am working with [https://angular.dev](Angular 18), [https://nodejs.org](Node.js 20) and [https://helm.sh](Helm).
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
